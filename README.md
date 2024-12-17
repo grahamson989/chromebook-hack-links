@@ -12,3 +12,5 @@ doing the bypass:
 # https://uk.yahoo.com/?guccounter=1
 # https://www.bing.com/
 # https://google.com/
+# https://chatgpt.com/
+# https://pokerogue.net/
